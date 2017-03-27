@@ -1,0 +1,10 @@
+Manifest-Version: 1.0
+Implementation-Title: Stats
+Implementation-Version: 0.0.1-SNAPSHOT
+Built-By: alok
+Implementation-Vendor-Id: com.n26.statistics
+Build-Jdk: 1.8.0_91
+Implementation-URL: http://projects.spring.io/spring-boot/Stats/
+Created-By: Maven Integration for Eclipse
+Implementation-Vendor: Pivotal Software, Inc.
+
